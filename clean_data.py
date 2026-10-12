@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+6#!/usr/bin/env python3
 """Validate CSV/JSON records and write cleaned output. Uses only the Python standard library."""
 
 import argparse
