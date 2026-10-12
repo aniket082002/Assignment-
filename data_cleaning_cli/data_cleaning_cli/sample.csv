@@ -1,0 +1,6 @@
+id,name,email,city
+1,Asha Sharma,ASHA@example.com,Indore
+2,Rohan Verma,rohan@example.com,Udaipur
+3,Invalid Person,not-an-email,Jaipur
+2,Duplicate ID,duplicate@example.com,Delhi
+4,,missingname@example.com,Pune
