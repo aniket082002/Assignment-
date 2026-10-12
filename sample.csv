@@ -1,0 +1,6 @@
+id,name,email,city
+1,Aniket,aniket@example.com,Udaipur
+2,  Meghansh  ,MEGHANSH@example.com,Jaipur
+3,Bhavya,bhavya.example.com,Delhi
+4,,missingname@example.com,Mumbai
+1,Duplicate,duplicate@example.com,Pune

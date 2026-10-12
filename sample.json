@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Aniket",
+    "email": "aniket@example.com",
+    "city": "Udaipur"
+  },
+  {
+    "id": 2,
+    "name": "  Meghansh  ",
+    "email": "MEGHANSH@example.com",
+    "city": "Jaipur"
+  },
+  {
+    "id": 3,
+    "name": "Bhavya",
+    "email": "bhavya.example.com",
+    "city": "Delhi"
+  },
+  {
+    "id": 4,
+    "name": "",
+    "email": "missingname@example.com",
+    "city": "Mumbai"
+  },
+  {
+    "id": 1,
+    "name": "Duplicate",
+    "email": "duplicate@example.com",
+    "city": "Pune"
+  }
+]

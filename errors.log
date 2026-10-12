@@ -1,0 +1,8 @@
+2026-10-12 14:37:34,684 | WARNING | Record 4 rejected: email format is invalid | record={'id': '3', 'name': 'Bhavya', 'email': 'bhavya.example.com', 'city': 'Delhi'}
+2026-10-12 14:37:34,685 | WARNING | Record 5 rejected: missing required field: name; name cannot be blank | record={'id': '4', 'name': '', 'email': 'missingname@example.com', 'city': 'Mumbai'}
+2026-10-12 14:37:34,685 | WARNING | Record 6 rejected: duplicate id 1
+2026-10-12 14:37:34,686 | INFO | Finished. Total=5 accepted=2 rejected=3 output=cleaned.csv
+2026-10-12 14:37:49,246 | WARNING | Record 3 rejected: email format is invalid | record={'id': 3, 'name': 'Bhavya', 'email': 'bhavya.example.com', 'city': 'Delhi'}
+2026-10-12 14:37:49,247 | WARNING | Record 4 rejected: missing required field: name; name cannot be blank | record={'id': 4, 'name': '', 'email': 'missingname@example.com', 'city': 'Mumbai'}
+2026-10-12 14:37:49,247 | WARNING | Record 5 rejected: duplicate id 1
+2026-10-12 14:37:49,248 | INFO | Finished. Total=5 accepted=2 rejected=3 output=cleaned.json
